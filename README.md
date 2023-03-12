@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**dhidalgob79/dhidalgob79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hola soy Diego Hidalgo Buitrago
+## Soy Ingeniero en Telematica, soy arquitecto de soluciones de Computo Personal y Soluciones para Datacenter
+Quiero Aprender mas de programacion, ya que vi varios lenguajes de programacion en mi carrera,
+pero nunca profundice**Me llama mucho la atencion **ser FullStack
+Vivo en **Bogota, Colombia
+En mis consultorias ayudo a que los clientes obtengan las mejores soluciones para sus compañias
+# Lista de Comandos
+## Los comandos mas Utiles en Linux
+| Comando | USO |
+| ------ | ------ |
+| ls     | Comando usado para listar elmentos de un directorio |
+| mkdir  | Comando usado para crear carpetas de archivos |
+| cat    | Comando usado para crear concatenar  archivos |
+| mv     | Comando usado para mover archivos y directorios |
+| clear  | Comando usado para limpiar la consola |
+| rm     | Comando usado para borrar archivos    |
+## Alias
+| Comando | USO |
+| ------ | ------ |
+| trash  | Alias comando rm    |
+| npms   | Alias comando start   |
